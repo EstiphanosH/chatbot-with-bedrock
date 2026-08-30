@@ -1,0 +1,5 @@
+Evaluation Observation
+
+The flow was evaluated using 16 test prompts covering bug reports, platform questions, and unrelated requests. The initial evaluation score was 0.44. After refining and testing different system prompts, the current score improved to 0.59.
+The improvement indicates that the revised prompts and routing logic perform better across the tested scenarios. However, the results also show that some cases remain inconsistent, particularly for ambiguous requests and messages that overlap between categories.
+The current results demonstrate measurable improvement, but further refinement of the system prompts, classification rules, and handling instructions is needed to improve consistency and achieve higher evaluation accuracy.
